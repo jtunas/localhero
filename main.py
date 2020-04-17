@@ -14,7 +14,7 @@ import dash_html_components as html
 import pandas as pd
 
 raw_data = pd.read_csv(
-    'E:\localhero\data.csv', sep = ';',
+    'https://raw.githubusercontent.com/jtunas/localhero/master/data.csv', sep = ';',
     dtype=object,
 )
 
