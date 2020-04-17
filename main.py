@@ -194,5 +194,7 @@ def update_graph(unuseful, search):
             ),
         )
     
+server = app.server
+   
 if __name__ == "__main__":
     app.run_server(debug = False)
