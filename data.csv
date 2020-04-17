@@ -1,0 +1,12 @@
+name;lat;long;producto;symbol;servicio_domicilio;bonos
+Casa Pepe;40.54749;-4.181604;leche;cafe;"No disponible";"http://www.verse.com"
+Casa Pepe;40.54749;-4.181604;menu;cafe;"No disponible";"http://www.verse.com"
+Casa Pepe;40.54749;-4.181604;whisky;cafe;"No disponible";"http://www.verse.com"
+Casa Pepe;40.54749;-4.181604;carne;cafe;"No disponible";"http://www.verse.com"
+Casa Pepe;40.54749;-4.181604;pescado;cafe;"No disponible";"http://www.verse.com"
+Casa Pepe;40.54749;-4.181604;hamburguesas;cafe;"No disponible";"http://www.verse.com"
+Floristeria Arte Flor;40.54859;-4.181604;flores;garden;"https://www.arteflor.es/tienda/";"http://www.verse.com"
+Floristeria Arte Flor;40.54859;-4.181604;plantas;garden;"https://www.arteflor.es/tienda/";"http://www.verse.com"
+Floristeria Arte Flor;40.54859;-4.181604;margaritas;garden;"https://www.arteflor.es/tienda/";"http://www.verse.com"
+Floristeria Arte Flor;40.54859;-4.181604;rosas;garden;"https://www.arteflor.es/tienda/";"http://www.verse.com"
+Floristeria Arte Flor;40.54859;-4.181604;petunias;garden;"https://www.arteflor.es/tienda/";"http://www.verse.com"
